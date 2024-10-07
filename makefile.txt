@@ -1,0 +1,3 @@
+
+gcc -g main.c lib_monitorFloresta.c -o programa.exe -lpthread
+.\programa.exe
